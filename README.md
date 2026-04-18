@@ -1,2 +1,9 @@
-# simple-pomodoro-timer-helper
-A simple pomodoro timer project
+# Pomodoro Timer
+
+A simple pomodoro timer project.
+\n
+## Getting Started
+
+```bash
+python pomodoro.py
+```
